@@ -1,0 +1,13 @@
+#1.2)Implement a python script to purposefully raise Indentation Error and correct it.
+
+>>>a=1
+>>>  b=2
+>>>print(a,b)
+Output:
+SyntaxError:unexpected indent
+
+#correction of indentation error
+>>>a=1
+>>>b=2
+>>>print(a,b)
+1 2
